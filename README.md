@@ -14,7 +14,7 @@ Entry-level AI Product Manager passionate about leveraging artificial intelligen
 - 📍 Based in New Jersey, USA
 - 🔭 Currently working on: **V2V Safety Ecosystem** - A comprehensive AI-powered vehicle safety platform
 - 🌱 Currently learning: Generative AI, AI Product Strategy, and Advanced ML Systems
-- 💼 Certifications: IBM AI Product Manager (in progress)
+- 💼 Certifications: IBM AI Product Manager (, Google Project Management, CAPM (in progress)
 
 ---
 
@@ -89,6 +89,8 @@ AI agent prototype for intelligent driver alerts
 
 **Currently Pursuing:**
 - 📘 IBM AI Product Manager Professional Certificate (In Progress)
+- - 📘 Google Project Management Professional Certificate (In Progress)
+- 📘 CAPM/PMP Certification
 
 **Focus Areas:**
 - Generative AI and Large Language Models for product features
