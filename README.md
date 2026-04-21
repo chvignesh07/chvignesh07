@@ -1,278 +1,80 @@
 <div align="center">
 
-# Hi, I'm Vignesh 👋
+# Vignesh Chintakayala
 
-### AI Product Manager | Building Intelligent Solutions for Automotive Safety
+**Solo Founder & Full-Stack AI Engineer** · Building production AI SaaS with Claude Code as daily driver
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/chvignesh07)
-[![Email](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:chvignesh07@gmail.com)
-[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/chvignesh07)
-
-![Profile Views](https://komarev.com/ghpvc/?username=chvignesh07&color=blueviolet&style=for-the-badge)
-
-</div>
-
----
-
-## 🚀 About Me
-
-> **Entry-level AI Product Manager** passionate about leveraging artificial intelligence and machine learning to solve real-world problems. Currently pursuing **IBM AI Product Manager Professional Certificate** and building innovative AI-powered solutions in autonomous vehicle safety.
-
-- 🎓 **MS in Management Information Systems** @ Stevens Institute of Technology
-- 🎓 **B.Tech in Electronics and Communications Engineering** @ KL University  
-- 📍 Based in **New Jersey, USA**
-- 🔭 Currently building: **[V2V Safety Ecosystem](https://github.com/chvignesh07/v2v-safety-ecosystem)** - AI-powered vehicle safety platform
-- 🌱 Currently learning: **Generative AI, AI Product Strategy, Advanced ML Systems**
-- 💼 Actively seeking: **Entry-Level AI Product Manager roles**
-
-### 🏆 Certifications
-
-![IBM](https://img.shields.io/badge/IBM%20AI%20PM-In%20Progress-0052CC?style=flat-square&logo=ibm)
-![Google](https://img.shields.io/badge/Google%20PM-In%20Progress-4285F4?style=flat-square&logo=google)
-![CAPM](https://img.shields.io/badge/CAPM-In%20Progress-FF6B35?style=flat-square&logo=pmi)
-
----
-
-## 💡 AI Product Management Expertise
-
-<table>
-<tr>
-<td width="50%" valign="top">
-
-### 🧠 Core AI Product Competencies
-
-```yaml
-AI/ML Product Strategy:
-  - Product roadmaps & KPIs for AI products
-  - Success metrics & evaluation frameworks
-  
-Generative AI Products:
-  - Building with LLMs & prompt engineering
-  - AI-powered features & capabilities
-  
-Data-Driven Decisions:
-  - A/B testing & experimentation
-  - Analytics for AI features
-  
-Cross-Functional Leadership:
-  - Collaborate with data scientists
-  - Work with ML engineers & designers
-  
-Technical PM:
-  - ML pipelines & model deployment
-  - Monitoring & evaluation
-  
-Responsible AI:
-  - Ethics, fairness, bias mitigation
-  - Regulatory compliance
-```
-
-</td>
-<td width="50%" valign="top">
-
-### 🛠️ Product Management Skills
-
-```yaml
-Core PM Skills:
-  • AI Product Roadmapping & Vision
-  • User Research for AI Features
-  • AI Product Documentation (PRDs/MRDs)
-  • Agile Development for AI Products
-  • Stakeholder Management
-  • AI Market Analysis & Competitive Research
-  • Product-Market Fit Analysis
-  • Go-to-Market Strategy
-  • Feature Prioritization
-  • Sprint Planning & Execution
-```
-
-</td>
-</tr>
-</table>
-
----
-
-## 🎯 Featured AI Product Projects
-
-### 🚗 [V2V Safety Ecosystem](https://github.com/chvignesh07/v2v-safety-ecosystem)
-
-> **Comprehensive AI-powered vehicle-to-vehicle communication safety platform**
-
-**Product Context:**
-- **Problem**: Vehicle accidents remain a major safety concern; drivers need better real-time hazard awareness
-- **Solution**: Real-time AI system for threat detection using V2V data and computer vision
-- **Tech Stack**: Python, ML models for threat detection, Real-time data processing
-- **My Role**: Product Owner - Defined product vision, roadmap, and success metrics
-
-**Key Features:**
-- ✅ Real-time collision prediction AI agent
-- ✅ V2V communication protocol
-- ✅ Driver alert system with ML-powered prioritization
-- ✅ Bird's eye view visualization
-
----
-
-### 🗺️ [BEV Map Demo](https://github.com/chvignesh07/bev-map-demo)
-
-> **Bird's Eye View mapping system for autonomous vehicle navigation**
-
-**Product Context:**
-- **Problem**: Autonomous vehicles need intuitive spatial awareness visualization
-- **Solution**: Interactive AI-powered mapping with real-time vehicle positioning
-- **Tech Stack**: JavaScript, React, Mapbox GL, Spatial AI algorithms
-- **My Role**: Product Designer, UX researcher
-
----
-
-### 🚨 [V2V Driver Alert Agent](https://github.com/chvignesh07/v2v-driver-alert-agent)
-
-> **AI agent prototype for intelligent driver alerts**
-
-**Product Context:**
-- **Problem**: Delayed human response to hazardous road conditions
-- **Solution**: ML-powered real-time contextual alert system with NLP interface
-- **Tech Stack**: Python, AI/ML models, Natural Language Processing
-- **My Role**: AI Product Manager - Defined product requirements and AI model success criteria
-
----
-
-## 📊 Technical Skills
-
-### AI/ML & Data
-
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
-![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
-![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white)
-
-### Development & Tools
-
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
-
-### Product & Analytics
-
-![Jira](https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=jira&logoColor=white)
-![Notion](https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white)
-![Google Analytics](https://img.shields.io/badge/Google%20Analytics-E37400?style=for-the-badge&logo=google-analytics&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white)
-
----
-
-## 📚 Continuous Learning
-
-### Currently Pursuing:
-
-<table>
-<tr>
-<td align="center" width="33%">
-<img src="https://img.icons8.com/color/96/000000/ibm.png" width="48"/><br/>
-<b>IBM AI Product Manager</b><br/>
-Professional Certificate<br/>
-<sub>In Progress</sub>
-</td>
-<td align="center" width="33%">
-<img src="https://img.icons8.com/color/96/000000/google-logo.png" width="48"/><br/>
-<b>Google Project Management</b><br/>
-Professional Certificate<br/>
-<sub>In Progress</sub>
-</td>
-<td align="center" width="33%">
-<img src="https://img.icons8.com/color/96/000000/certificate.png" width="48"/><br/>
-<b>CAPM/PMP</b><br/>
-Certification<br/>
-<sub>In Progress</sub>
-</td>
-</tr>
-</table>
-
-### 🎯 Focus Areas:
-
-- 🤖 Generative AI and Large Language Models for product features
-- 🔄 AI Product Lifecycle Management (ideation to deployment)
-- 📊 Data Science fundamentals for AI Product Managers
-- ⚖️ Responsible AI and Ethics in product development
-- 💼 AI product-market fit and go-to-market strategies
-
----
-
-## 📈 GitHub Stats
-
-<div align="center">
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=chvignesh07&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117)
-
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=chvignesh07&theme=tokyonight&hide_border=true&background=0D1117)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=chvignesh07&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117)
+[![Location](https://img.shields.io/badge/Jersey_City,_NJ-0A0A0A?style=flat-square&logo=googlemaps&logoColor=white)](#)
+[![Status](https://img.shields.io/badge/F1_OPT-Authorized_to_Work_in_US-1f6feb?style=flat-square)](#)
+[![Education](https://img.shields.io/badge/MS_MIS-Stevens_Institute_of_Technology-A31F34?style=flat-square)](#)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vignesh-chintakayala-a009b4172/)
 
 </div>
 
 ---
 
-## 🤝 Let's Connect!
+## What I'm building
 
-<div align="center">
+**VelocityFlow Automations** — an AI-native outreach and workflow platform for SMBs, unifying voice (Bland AI), SMS (Twilio A2P 10DLC), email (SendGrid), and WhatsApp Business into a single agent-orchestrated pipeline. Launching end of April 2026. Wyoming LLC formed, EIN obtained, Mercury bank account live, full TCPA / FTC DNC / A2P 10DLC compliance in place.
 
-### 💼 **Actively seeking entry-level AI Product Manager opportunities!**
+## The numbers
 
-I'm always interested in connecting with fellow product managers, AI enthusiasts, and anyone passionate about building intelligent products that make a difference.
+A single-operator codebase, built and shipped solo:
 
-<table>
-<tr>
-<td align="center">
-<a href="https://linkedin.com/in/chvignesh07">
-<img src="https://img.icons8.com/color/96/000000/linkedin.png" width="64"/><br/>
-<b>LinkedIn</b>
-</a>
-</td>
-<td align="center">
-<a href="mailto:chvignesh07@gmail.com">
-<img src="https://img.icons8.com/color/96/000000/gmail.png" width="64"/><br/>
-<b>Email</b>
-</a>
-</td>
-<td align="center">
-<a href="https://github.com/chvignesh07">
-<img src="https://img.icons8.com/fluency/96/000000/github.png" width="64"/><br/>
-<b>GitHub</b>
-</a>
-</td>
-</tr>
-</table>
+| VelocityFlow Automations |  | Einstein Brain Server |  |
+|---|---:|---|---:|
+| Commits on `main` | **670** | Routing rules | **186** |
+| Backend API endpoints (FastAPI) | **132** | Circuit breaker layers | **8** |
+| AI agent files | **47** | MCP tools exposed | **59** |
+| Frontend pages (React 18 + Vite) | **40** | Golden-set nDCG@5 | **0.883** |
+| Frontend components | **181** | Golden-set MRR | **0.901** |
+| Active branches | **22** | Mean retrieval latency | **436 ms** |
 
-</div>
+Eval pipeline on 25-query golden dataset: **hit_rate 0.96**, **recall@5 0.92**, **MRR 0.901**, **nDCG@5 0.883**.
+
+## How I build
+
+Claude Code is my daily driver. Every feature in VelocityFlow — from the FastAPI endpoints to the React components to the Stripe billing flow — was shipped in partnership with **Claude Opus 4.6** (co-author visible in git log), with **Sonnet** and **Haiku** powering the in-product agents themselves. Local development runs on a MacBook Air with the Claude Max subscription and a Claude Code CLI — no API-key billing for my own dev loop. For code review I lean on **Ollama** running `qwen3:8b` locally. This is not a hobby workflow; it's how a solo operator ships a 670-commit production system.
+
+## Engineering systems I've designed
+
+- **MCP server** — a Model Context Protocol server exposing 59 tools to Claude, giving the orchestrator typed access to the full build environment.
+- **8-layer circuit breaker** — token budget, cost cap, error rate, time limit, action count, file scope, API rate, and a deadman switch, enforced before any agent action executes.
+- **Autonomy governance (L1–L4)** — per-agent, per-operation autonomy levels. Auth, billing, and TCPA-touching operations are hard-pinned to L1 (observe-only) across every agent, always.
+- **Model tiering** — Opus for orchestration, Sonnet for specialist work, Haiku for routing and classification. Every agent carries a stable 1,500-token prefix to keep KV-cache hits predictable.
+- **Hybrid retrieval** — BM25 + vector embeddings + KuzuDB graph traversal + temporal ranking, feeding a 110-node knowledge graph.
+- **Eval harness** — golden-dataset regression tests on nDCG@5, MRR, hit_rate, recall@5, and latency, run on every registry change.
+- **Path-traversal-hardened self-healer** — filesystem-modifying agents are gated by a dedicated `UnsafeRelatedPath` exception.
+
+## VelocityFlow stack highlights
+
+- **Backend:** FastAPI · Python · Celery · Redis · PostgreSQL · Supabase
+- **Frontend:** React 18 · TypeScript · Vite · Tailwind · custom "Liquid Glass" dark/light design system
+- **Billing:** Stripe — 4 tiers, webhooks, trial logic, `BillingGate` enforcement
+- **Messaging:** Bland AI · Twilio A2P 10DLC · SendGrid · WhatsApp Business
+- **Infra:** Docker · Railway · Sentry · CI/CD on every push
+
+## Core stack
+
+<p>
+<img alt="Python" src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+<img alt="FastAPI" src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white" />
+<img alt="TypeScript" src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" />
+<img alt="React" src="https://img.shields.io/badge/React_18-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
+<img alt="Tailwind" src="https://img.shields.io/badge/Tailwind-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white" />
+<img alt="Supabase" src="https://img.shields.io/badge/Supabase-3FCF8E?style=for-the-badge&logo=supabase&logoColor=white" />
+<img alt="PostgreSQL" src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" />
+<img alt="Redis" src="https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white" />
+<img alt="Docker" src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
+<img alt="Railway" src="https://img.shields.io/badge/Railway-0B0D0E?style=for-the-badge&logo=railway&logoColor=white" />
+<img alt="Claude" src="https://img.shields.io/badge/Claude-D97757?style=for-the-badge&logo=anthropic&logoColor=white" />
+</p>
+
+## Connect
+
+- **LinkedIn:** [vignesh-chintakayala](https://www.linkedin.com/in/vignesh-chintakayala-a009b4172/)
+- **Email:** mailforyouvignesh07@gmail.com
 
 ---
 
-## 🎯 Career Goals
-
-### 🚀 Short-term (6-12 months):
-
-- ✅ **Secure an entry-level/associate AI Product Manager role**
-- 📚 Complete IBM AI Product Manager certification
-- 💡 Build 3-5 strong AI product case studies
-- 👥 Contribute to open-source AI projects
-- 📈 Grow product management network
-
-### 🌟 Long-term (2-5 years):
-
-- 🚗 Lead AI product development for autonomous vehicle systems
-- 📊 Drive AI product strategy at a product-led organization
-- 👨‍🏫 Mentor aspiring AI product managers
-- 🌐 Contribute to responsible AI frameworks and best practices
-- 🏆 Build expertise in AI product management
-
----
-
-<div align="center">
-
-### ✨ *"Building AI products that enhance safety, efficiency, and human potential."* ✨
-
-</div>
+> My production work — VelocityFlow Automations and the Einstein Brain server that orchestrates it — lives in private repositories. The public repos here are older academic and capstone work and are not representative of what I ship today. Happy to walk through the real codebase in a conversation.
